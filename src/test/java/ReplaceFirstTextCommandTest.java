@@ -1,7 +1,7 @@
 import org.junit.jupiter.api.Test;
 import static org.junit.jupiter.api.Assertions.*;
 
-import edu.ntnu.idi.idatt.textcommand.ReplaceFirstTextCommand;
+import edu.ntnu.idi.idatt.textcommand.Replace.ReplaceFirstTextCommand;
 
 
 public class ReplaceFirstTextCommandTest {

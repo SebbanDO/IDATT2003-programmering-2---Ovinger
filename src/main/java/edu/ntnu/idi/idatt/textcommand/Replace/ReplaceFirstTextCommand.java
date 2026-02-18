@@ -1,4 +1,4 @@
-package edu.ntnu.idi.idatt.textcommand;
+package edu.ntnu.idi.idatt.textcommand.Replace;
 
 
 public class ReplaceFirstTextCommand extends ReplaceTextCommand {
